@@ -1,10 +1,7 @@
 //
 //  UIView+Snapshot.swift
 //  CollectionViewDemo
-//
-//  Created by Simon Ng on 23/11/2017.
-//  Copyright © 2017 AppCoda. All rights reserved.
-//
+
 
 import UIKit
 

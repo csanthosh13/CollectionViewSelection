@@ -1,10 +1,7 @@
 //
 //  IconCollectionViewController.swift
 //  CollectionViewDemo
-//
-//  Created by Simon Ng on 10/11/2016.
-//  Copyright © 2016 AppCoda. All rights reserved.
-//
+
 
 import UIKit
 
